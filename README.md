@@ -2,7 +2,7 @@
 
 - [ ] Email Mindy to get access to Cobra and Viper
 - [ ] Install [Anaconda](https://www.continuum.io/downloads), a Python distribution that makes installing packages like numpy and scipy much easier.  
-- [ ] Complete [Codecademy commandline lessons](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] Complete [Codecademy command line lessons](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] Set up Git and GitHub
   - [ ] Install [Git](http://git-scm.com/downloads) (If you are using a Mac, Git should already be installed.)
   - [ ] Sign up for [GitHub](https://github.com/)
